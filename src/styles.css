@@ -1,0 +1,23 @@
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+body {
+  margin: 0;
+}
+a {
+  color: inherit;
+}
+.MuiTableContainer-root {
+  max-width: 100%;
+}
+pre {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  font-size: 14px;
+}
+@media (max-width: 600px) {
+  .MuiDialogContent-root {
+    padding: 16px;
+  }
+}
